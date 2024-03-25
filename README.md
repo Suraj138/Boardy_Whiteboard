@@ -1,6 +1,6 @@
 # Boardy - Your Realtime Collaborative Whiteboard
 
-![thumbnail](https://raw.githubusercontent.com/vignesh-gupta/boardy/master/public/thumbnail.png)
+![thumbnail](https://github.com/Suraj138/Boardy_Whiteboard/blob/master/public/thumbnail.png)
 
 ## Intro
 
@@ -50,9 +50,8 @@ Boardy is a Full-Stack built with [Next.js](https://nextjs.org/) for frontend an
 
 ## Author
 
-- [![@vigneshfixes](https://img.shields.io/badge/vigneshfixes-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/follow?screen_name=vigneshfixes)
-- [![Vignesh Gupta](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vigneshgupta.vercel.app/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> [SURAJ KUMAR](https://t.me/ksuraj138)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> [PORTFOLIO SURAJ](https://suraj138.github.io/portfolioweb/)
 
 ## Thank you!
 
-Hope you like it. Please do ⭐ the repo. Happy coding!
