@@ -6,7 +6,7 @@
 
 Here are some screenshots of the project:
 
-| ![Screenshot 1](https://github.com/Suraj138/Boardy_Whiteboard/blob/master/img/image%201.png) | ![Screenshot 2]([https://example.com/screenshot2.png](https://github.com/Suraj138/Boardy_Whiteboard/blob/master/img/image%202.png)) |
+| ![Screenshot 1](https://github.com/Suraj138/Boardy_Whiteboard/blob/master/img/image%201.png) | ![Screenshot 2]([https://example.com/screenshot2.png](https://github.com/Suraj138/Boardy_Whiteboard/blob/master/img/image%202.png))
 
 
 ## Intro
