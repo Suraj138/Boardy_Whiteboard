@@ -1,13 +1,11 @@
 # Boardy - Your Realtime Collaborative Whiteboard
 
-![thumbnail](https://github.com/Suraj138/Boardy_Whiteboard/blob/master/public/thumbnail.png)
-
-## Features
-
 Here are some screenshots of the project:
 
-| ![Screenshot 1](https://github.com/Suraj138/Boardy_Whiteboard/blob/master/img/image%201.png) | ![Screenshot 2]([https://example.com/screenshot2.png](https://github.com/Suraj138/Boardy_Whiteboard/blob/master/img/image%202.png))
-
+![thumbnail](https://github.com/Suraj138/Boardy_Whiteboard/blob/master/public/thumbnail.png)
+![thumbnail](https://github.com/Suraj138/Boardy_Whiteboard/blob/master/img/image%202.png)
+![thumbnail](https://github.com/Suraj138/Boardy_Whiteboard/blob/master/img/image%203.png)
+![thumbnail](https://github.com/Suraj138/Boardy_Whiteboard/blob/master/img/image%204.png)
 
 ## Intro
 
