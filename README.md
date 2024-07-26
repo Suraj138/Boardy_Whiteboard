@@ -2,6 +2,13 @@
 
 ![thumbnail](https://github.com/Suraj138/Boardy_Whiteboard/blob/master/public/thumbnail.png)
 
+## Features
+
+Here are some screenshots of the project:
+
+| ![Screenshot 1](https://github.com/Suraj138/Boardy_Whiteboard/blob/master/img/image%201.png) | ![Screenshot 2]([https://example.com/screenshot2.png](https://github.com/Suraj138/Boardy_Whiteboard/blob/master/img/image%202.png)) |
+
+
 ## Intro
 
 Boardy is a Full-Stack built with [Next.js](https://nextjs.org/) for frontend and [Convex](https://www.convex.dev/) as backend. it is an innovative and feature-rich realtime collaborative whiteboard, offering a seamless experience for brainstorming, planning, and creative collaboration. Join Boardy today and redefine how you collaborate!
